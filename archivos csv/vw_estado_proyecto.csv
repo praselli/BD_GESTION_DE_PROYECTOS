@@ -1,0 +1,6 @@
+nombre_proyecto,total_tareas,tareas_completadas,tareas_en_proceso,tareas_pendientes,porcentaje_completado
+"Proyecto A",5,2,2,1,40.00
+"Proyecto B",4,1,2,1,25.00
+"Proyecto C",4,1,1,2,25.00
+"Proyecto D",5,1,2,2,20.00
+"Proyecto E",1,1,0,0,100.00

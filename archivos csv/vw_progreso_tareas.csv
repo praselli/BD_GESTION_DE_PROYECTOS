@@ -1,0 +1,20 @@
+nombre_proyecto,nombre_tarea,estado,fecha_inicio,fecha_fin,nombre_usuario_asignado,apellido_usuario_asignado
+"Proyecto A","Diseño de la base de datos",Completada,2024-01-05,2024-01-15,Juan,Pérez
+"Proyecto A","Planificación inicial",Completada,2024-01-01,2024-01-05,Juan,Pérez
+"Proyecto D","Análisis de mercado",Completada,2024-04-01,2024-04-05,Juan,Pérez
+"Proyecto A","Desarrollo de la interfaz","En Proceso",2024-01-16,2024-02-15,María,Gómez
+"Proyecto E","Diseño de base de datos",Completada,2024-05-05,2024-06-05,María,Gómez
+"Proyecto A","Desarrollo del backend",Pendiente,2024-02-01,2024-03-01,María,Gómez
+"Proyecto D","Implementación de pasarela de pagos",Pendiente,2024-04-06,2024-04-20,María,Gómez
+"Proyecto B","Implementación del backend","En Proceso",2024-02-05,2024-02-28,Carlos,López
+"Proyecto D","Análisis de requisitos",Pendiente,2024-04-05,2024-04-10,Carlos,López
+"Proyecto A","Pruebas del sistema","En Proceso",2024-03-02,2024-03-20,Carlos,López
+"Proyecto B","Pruebas de compatibilidad","En Proceso",2024-03-21,2024-03-30,Carlos,López
+"Proyecto D","Optimización de rendimiento","En Proceso",2024-04-21,2024-05-01,Carlos,López
+"Proyecto C","Pruebas y depuración",Pendiente,2024-03-05,2024-03-20,Pablo,Raselli
+"Proyecto D","Desarrollo del frontend","En Proceso",2024-04-11,2024-05-10,Pablo,Raselli
+"Proyecto B","Diseño gráfico",Completada,2024-02-01,2024-02-15,Pablo,Raselli
+"Proyecto C","Pruebas de usabilidad",Completada,2024-05-01,2024-05-10,Pablo,Raselli
+"Proyecto B","Optimización SEO",Pendiente,2024-03-01,2024-03-20,Lucía,Fernández
+"Proyecto C","Integración con APIs","En Proceso",2024-04-11,2024-04-25,Lucía,Fernández
+"Proyecto C","Diseño de la interfaz móvil",Pendiente,2024-04-01,2024-04-10,Valentín,Raselli

@@ -1,0 +1,20 @@
+nombre_proyecto,nombre_tarea,fecha_inicio,fecha_fin
+"Proyecto A","Diseño de la base de datos",2024-01-05,2024-01-15
+"Proyecto A","Desarrollo de la interfaz",2024-01-16,2024-02-15
+"Proyecto B","Implementación del backend",2024-02-05,2024-02-28
+"Proyecto C","Pruebas y depuración",2024-03-05,2024-03-20
+"Proyecto D","Análisis de requisitos",2024-04-05,2024-04-10
+"Proyecto D","Desarrollo del frontend",2024-04-11,2024-05-10
+"Proyecto E","Diseño de base de datos",2024-05-05,2024-06-05
+"Proyecto A","Planificación inicial",2024-01-01,2024-01-05
+"Proyecto A","Desarrollo del backend",2024-02-01,2024-03-01
+"Proyecto A","Pruebas del sistema",2024-03-02,2024-03-20
+"Proyecto B","Diseño gráfico",2024-02-01,2024-02-15
+"Proyecto B","Optimización SEO",2024-03-01,2024-03-20
+"Proyecto B","Pruebas de compatibilidad",2024-03-21,2024-03-30
+"Proyecto C","Diseño de la interfaz móvil",2024-04-01,2024-04-10
+"Proyecto C","Integración con APIs",2024-04-11,2024-04-25
+"Proyecto C","Pruebas de usabilidad",2024-05-01,2024-05-10
+"Proyecto D","Análisis de mercado",2024-04-01,2024-04-05
+"Proyecto D","Implementación de pasarela de pagos",2024-04-06,2024-04-20
+"Proyecto D","Optimización de rendimiento",2024-04-21,2024-05-01
